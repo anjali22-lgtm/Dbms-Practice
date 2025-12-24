@@ -7,7 +7,7 @@ To get started with DBMS basics, read the introduction file below:
 
 👉 [INTRO.md](./INTRO.md) – Introduction to DBMS  
 👉 [Architecture.md](./Architecture.md) – DBMS Architecture 
-👉 
+👉 [ER models.md](./ER models.md) - ER Models
 
 ## 📚 What This Repository Contains
 - DBMS fundamentals  
