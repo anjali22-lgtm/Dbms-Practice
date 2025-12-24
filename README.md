@@ -6,6 +6,7 @@ This repository is helpful for learning DBMS concepts.
 To get started with DBMS basics, read the introduction file below:
 
 👉 [INTRO.md](./INTRO.md)
+👉 [Architecture.md](./Architecture.md)
 
 ## 📚 What This Repository Contains
 - DBMS fundamentals  
